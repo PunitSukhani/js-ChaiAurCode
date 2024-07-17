@@ -24,3 +24,23 @@ console.log(toBoolean);
 // 0 -> false
 // "" -> false
 // "hsfkdfh" -> true
+
+
+// ****Operations*****
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**3) //Power 2^3
+// console.log(3/2)
+// console.log(3%2) // Modulo
+
+let str1 = "Punit"
+let str2 = " Sukhani"
+
+console.log(str1+str2)
+
+console.log("1" + 2); //12
+console.log(1 + "2"); //12 
+console.log("1" + 2 + 2); //122 
+console.log(1 + 2 + "2"); //32
